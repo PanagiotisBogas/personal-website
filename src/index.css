@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@keyframes blink {
+  0%, 50% {
+    opacity: 1;
+  }
+  51%, 100% {
+    opacity: 0;
+  }
+}
+
+body {
+  margin: 0;
+  background: black;
+  color: green;
+  font-family: 'Courier New', monospace;
+}
+input {
+  color: green;
+}
+
+.animate-blink {
+  animation: blink 1s step-start infinite;
+}
