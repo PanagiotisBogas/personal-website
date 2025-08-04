@@ -13,7 +13,7 @@ Available commands:
   },
   about: {
     description: "About me",
-    output: `Hi! I'm Panagiotis, a cyber security automations developer at Pfizer, located in in Greece. \nI like to build cool stuff. 
+    output: `Hi! I'm Panagiotis, a cyber security automations developer at Pfizer, located in Greece. \nI like to build cool stuff. 
     
     Experience:
     -Cyber Security Automations Developer | Pfizer | July 2024 – Present
