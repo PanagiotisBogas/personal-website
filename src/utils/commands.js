@@ -31,7 +31,7 @@ Available commands:
   },
   projects: {
     description: "My Projects",
-    output: "Done some pretty cool projects, but i am working on better ones. Stay tuned, thanks."
+    output: "Done some pretty cool projects, but i am working on better ones. Stay tuned, thanks.😊"
   },
   contact: {
     description: "Contact info",
